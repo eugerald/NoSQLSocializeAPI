@@ -1,0 +1,23 @@
+{
+  "name": "nosqlsocializeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugerald/NoSQLSocializeAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugerald/NoSQLSocializeAPI/issues"
+  },
+  "homepage": "https://github.com/eugerald/NoSQLSocializeAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
